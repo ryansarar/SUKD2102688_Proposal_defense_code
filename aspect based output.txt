@@ -1,0 +1,1 @@
+[('software', 125), ('use', 101), ('program', 93), ('work', 79), ('easy', 79), ('product', 77), ('database', 57), ('great', 54), ('one', 54), ('need', 50)]
